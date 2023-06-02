@@ -68,6 +68,8 @@ export const persons = [
     ],
     education: [
       "University of Toronto, B.B.A., Business Administration September 2011 - May 2015",
+      "University of Toronto, M.B.A., Business Administration September 2015 - May 2017",
+      "University of Toronto, Ph.D., Business Administration September 2017 - May 2021",
     ],
   },
   {
@@ -102,6 +104,8 @@ export const persons = [
     ],
     education: [
       "Stanford University, B.S., Computer Science September 2010 - June 2014",
+      "Stanford University, M.S., Computer Science September 2014 - June 2016",
+      "Stanford University, Ph.D., Computer Science September 2016 - June 2020",
     ],
   },
   {
@@ -223,6 +227,7 @@ export const persons = [
     ],
     education: [
       "Bocconi University, B.S., Accounting and Finance September 2010 - June 2013",
+      "Bocconi University, M.S., Accounting and Finance September 2013 - June 2015",
     ],
   },
 ];
