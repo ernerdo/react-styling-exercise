@@ -185,7 +185,6 @@ export const persons = [
     location: "Rome, Italy",
     phone_number: "555-987-6543",
     personal_email: "marcorossi@gmail.com",
-    linkedIn: "https://www.linkedin.com/in/marco-rossi/",
     experience: [
       "Marketing Manager at XYZ Corporation January 2017 - present",
       "Marketing Specialist at ABC Company June 2014 - December 2016",
@@ -201,7 +200,6 @@ export const persons = [
     current_title: "Architect",
     location: "Copenhagen, Denmark",
     phone_number: "555-456-7890",
-    personal_email: "sofiaandersen@gmail.com",
     linkedIn: "https://www.linkedin.com/in/sofia-andersen/",
     experience: [
       "Senior Architect at XYZ Architecture Firm January 2016 - present",
@@ -218,7 +216,6 @@ export const persons = [
     last_name: "Bianchi",
     current_title: "Accountant",
     location: "Milan, Italy",
-    phone_number: "555-234-5678",
     personal_email: "giovannibianchi@gmail.com",
     linkedIn: "https://www.linkedin.com/in/giovanni-bianchi/",
     experience: [
