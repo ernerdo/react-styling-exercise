@@ -13,7 +13,7 @@ export const ProfileExperience = ({ experience, isLastItem }) => {
           className="object-cover w-full h-full"
         />
       </div>
-      <div className="w-52 overflow-hidden">
+      <div className="w-56 overflow-hidden">
         <p className="truncate">{experience}</p>
       </div>
     </div>

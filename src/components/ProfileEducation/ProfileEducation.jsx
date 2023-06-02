@@ -13,7 +13,7 @@ export const ProfileEducation = ({ education, isLastItem }) => {
           className="object-cover w-full h-full"
         />
       </div>
-      <div className="w-52 overflow-hidden">
+      <div className="w-56 overflow-hidden">
         <p className="truncate">{education}</p>
       </div>
     </div>
