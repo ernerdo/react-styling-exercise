@@ -4,7 +4,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-      <div className="grid grid-cols-3 gap-5 justify-center">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5 justify-center">
         <Card />
         <Card />
         <Card />
