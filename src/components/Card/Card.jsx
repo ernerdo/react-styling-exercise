@@ -7,7 +7,7 @@ export const Card = ({ person }) => {
   return (
     <div className="border border-3 border-slate-300 rounded-lg shadow-xl p-5">
       <div className="flex flex-row p-2 gap-2">
-        <p className=" italic font-semibold text-lg">{person.name}</p>
+        <p className="italic font-semibold text-lg">{person.name}</p>
         <p>Phone</p>
         <p>Email</p>
         <div className="h-auto w-0 border border-r"></div>

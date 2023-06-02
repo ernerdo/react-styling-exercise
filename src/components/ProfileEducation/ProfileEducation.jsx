@@ -6,8 +6,14 @@ export const ProfileEducation = ({ education, isLastItem }) => {
       {!isLastItem && (
         <div className="absolute top-[20px] mt-0 left-[0.15rem] w-px h-[0.5rem] border border-r bg-gray-200"></div>
       )}
-      <p>Logo</p>
-      <div className="w-52 overflow-hidden">
+      <div className="w-5 h-5 rounded-full overflow-hidden">
+        <img
+          src="https://img.freepik.com/vector-gratis/logo-curva-abstracta_1043-94.jpg"
+          alt="Logo"
+          className="object-cover w-full h-full"
+        />
+      </div>
+      <div className="w-56 overflow-hidden">
         <p className="truncate">{education}</p>
       </div>
     </div>
